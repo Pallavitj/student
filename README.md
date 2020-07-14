@@ -12,6 +12,8 @@ This projects aims at making a desktop application which performs CRUD functiona
 # Technologies ,tool and software
  languages-> Python,MySQL.
  
+ Tool-> Python IDLE 3.7
+ 
  software-> XAMPP software is used which provides Apache Web Server,mySql database server,php,perl all in one package.It is available for windows, Mac and linux.
  # XAMPP
  X->cross platform
@@ -53,6 +55,8 @@ It is an open source software and a relational database management system.
 -> all the software are open source
 
 -> Authentication is there.
+
+# NOTE-> we need to start running this application from login page.
                                   
                                   
                                   
